@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Digi Retail</string>
+
+    <string name="dialog_title">Congratulation</string>
+    <string name="dialog_msg_spot">Do you want to continue to get another voucher?</string>
+    <string name="dialog_msg_video">You have won one month subscription for iFlix \nContinue to claim the rewards.</string>
+    <string name="iflix_image">Iflix image</string>
+    <string name="dialog_msg_spot1">We will send the vouchers to you via email</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="emailTrx">Email</string>
+
+    <!--Admob test-->
+
+    <string name="admob_interstitial_id">ca-app-pub-3940256099942544/1033173712</string>
+
+    <!--IntentAction-->
+    <string name="action_intent_main">Start page</string>
+    <string name="action_intent_video">Video page</string>
+    <string name="action_intent_spot">Spot1 page</string>
+
+    <!--String MainActivity-->
+    <string name="string_main_savedata">StoreID saved with the row id :</string>
+    <string name="string_main_savedataerror">Saving data error</string>
+
+    <!--String VideoActivity-->
+    <string name="string_video_fromemail"><![CDATA[Husnul Afif<nusnafif@digi.com.my>]]></string>
+
+
+    <!--String Spot1Activity-->
+    <string name="string_spot_rewards">Got Voucher</string>
+    <string name="string_spot_rewards_msg">Here is your 10% Discount iFlix Voucher</string>
+    <string name="string_spot_error_invalid_email">Invalid email address</string>
+    <string name="string_spot_savedata">CustomerID saved with the row id :</string>
+    <string name="string_spot_savedata_error">Error with saving this data</string>
+    <string name="string_spot_lte">Enjoy LTE connection for your movies</string>
+    <string name="string_spot_topmovie">You can view the Top Movies</string>
+    <string name="string_spot_sortmovie">You may also sort the movies by preferences</string>
+    <string name="string_spot_searchbtn">You can search for the movies from the search button</string>
+    <string name="string_spot_hulk">Looking for Captain America or Hulk Movies?</string>
+
+    <!--String Dialog setup -->
+    <string name="dialog_setup_title">Setup Device</string>
+    <string name="dialog_setup_storename">Store Name</string>
+    <string name="dialog_setup_deviceid">Device ID</string>
+    <string name="dialog_setup_btnsetup">Setup Device</string>
+
+    <!--String activity_main-->
+    <string name="activity_main_textStore">Store Name</string>
+    <string name="activity_main_textDevice">Device Name</string>
+    <string name="activity_main_storeInfo">Records</string>
+
+    <!--String activity_spot-->
+    <string name="activity_spot_btnEnd">End</string>
+    <string name="dialog_msisdn_header">Your Details</string>
+
+    <string name="spot_activity_x">X :</string>
+    <string name="spot_activity_y">Y :</string>
+    <string name="spot_activity_comma">,</string>
+
+    <!--String Dialog setup -->
+    <string name="dialog_msisdn_textemail">Email ID</string>
+    <string name="dialog_msisdn_txtmsisdn">Mobile Number</string>
+    <string name="dialog_msisdn_btnCancel">Cancel</string>
+    <string name="dialog_msisdn_btnSave">Submit</string>
+
+    <!--String Retail app widget -->
+    <string name="retail_app_widget_header">Store Name :</string>
+    <string name="retail_app_widget_storeinfo">null| DiGi Store |null</string>
+    <string name="spot_positive_button">Bye for now!</string>
+    <string name="spot_negative_button">Learn more</string>
+    <string name="spot_dialog_leave">Warning!</string>
+    <string name="spot_dialog_msg_leave">Your data will broken</string>
+
+    <!-- String for sendmail -->
+    <string name="sendmail_sendingmail">Sending message</string>
+    <string name="sendmail_wait">Please wait...</string>
+    <string name="sendmail_msg_sent">Message Sent</string>
+
+    <string name="sendmail_smtp_host">mail.smtp.host</string>
+    <string name="sendmail_smtp_port_socket">mail.smtp.socketFactory.port</string>
+    <string name="sendmail_smtp_socket_class">mail.smtp.socketFactory.class</string>
+    <string name="sendmail_smtp_auth">mail.smtp.auth</string>
+    <string name="sendmail_smtp_port">mail.smtp.auth</string>
+
+    <string name="sendmail_smtp_host_value">smtp.gmail.com</string>
+    <string name="sendmail_smtp_port_socket_value">465</string>
+    <string name="sendmail_smtp_socket_class_value">javax.net.ssl.SSLSocketFactory</string>
+    <string name="sendmail_smtp_auth_value">true</string>
+    <string name="sendmail_smtp_port_value">465</string>
+    <string name="video_activity_dialog_continue">Continue</string>
+    <string name="video_activity_dialog_cancel">Cancel</string>
+
+</resources>
